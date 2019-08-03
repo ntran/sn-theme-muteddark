@@ -1,9 +1,9 @@
 {
-    "identifier": "io.gitlab.ntran.sn-theme-muteddark",
+    "identifier": "io.github.ntran.sn-theme-muteddark",
     "name": "Muted Dark",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Standard Notes dark theme with muted colors",
     "url": "http://localhost:8001/dist/dist.css",
     "latest_url": "http://localhost:8001/sn-theme-muteddark.json",

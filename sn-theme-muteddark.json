@@ -3,7 +3,7 @@
     "name": "Muted Dark",
     "content_type": "SN|Theme",
     "area": "themes",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "Standard Notes dark theme with muted colors",
     "url": "http://localhost:8001/dist/dist.css",
     "latest_url": "http://localhost:8001/sn-theme-muteddark.json",
@@ -11,7 +11,7 @@
         "type": "circle",
         "background_color": "#1e1e1e",
         "foreground_color": "#1e1e1e",
-        "border_color": "#166666"
+        "border_color": "#127766"
     },
     "statusBar": "dark-content"
 }
